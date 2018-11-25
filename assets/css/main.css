@@ -1,0 +1,15 @@
+.kontainer-utama{
+    height: 100vh;
+    background-color: gray;
+}
+
+#sliderku{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.slick-initialized .slick-slide{
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+}
