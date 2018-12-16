@@ -1,0 +1,42 @@
+.copyright {
+    font-size: 12px;
+    text-align: center;
+}
+
+.email {
+    font-weight: bold;
+    color: #f6ad3a;
+}
+
+.text-center {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.works-frame {
+    width: 248px;
+    height: 282px;
+}
+
+dd {
+    font-size: 14px;
+}
+
+p {
+    color: gray;
+}
+
+li a {
+    color: white;
+}
+
+h5 {
+    margin: 50px;
+    padding: 10px;
+}
+
+.btn {
+    border-radius: 50px;
+    border: 1px solid gray;
+}
